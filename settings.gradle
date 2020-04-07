@@ -1,0 +1,2 @@
+rootProject.name='AccBall2'
+include ':app'
